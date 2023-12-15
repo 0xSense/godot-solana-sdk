@@ -3,7 +3,7 @@
 
 #include <godot_cpp/classes/node.hpp>
 
-namespace godot {
+namespace Godot {
 
 class SolanaClient : public Node {
     GDCLASS(SolanaClient, Node)

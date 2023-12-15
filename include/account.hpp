@@ -6,7 +6,7 @@
 
 #include <godot_cpp/classes/node.hpp>
 
-namespace godot{
+namespace Godot{
 
 class Account : public Node {
     GDCLASS(Account, Node)

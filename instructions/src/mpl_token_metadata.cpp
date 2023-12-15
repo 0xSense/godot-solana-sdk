@@ -3,7 +3,7 @@
 #include "system_program.hpp"
 #include "spl_token.hpp"
 
-namespace godot{
+namespace Godot{
 
 const std::string MplTokenMetadata::ID = "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s";
 

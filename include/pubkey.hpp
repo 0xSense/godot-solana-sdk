@@ -4,7 +4,7 @@
 #include <godot_cpp/classes/node.hpp>
 #include <godot_cpp/classes/resource.hpp>
 
-namespace godot{
+namespace Godot{
 class Pubkey : public Resource {
     GDCLASS(Pubkey, Resource)
 

@@ -8,7 +8,7 @@
 
 #include <godot_cpp/classes/node.hpp>
 
-namespace godot{
+namespace Godot{
 
 class Transaction : public Node {
     GDCLASS(Transaction, Node)

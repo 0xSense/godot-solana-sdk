@@ -7,7 +7,7 @@
 
 #include <godot_cpp/classes/node.hpp>
 
-namespace godot{
+namespace Godot{
 
 class AccountMeta : public Resource {
     GDCLASS(AccountMeta, Resource)

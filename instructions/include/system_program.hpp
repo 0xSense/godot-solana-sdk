@@ -6,7 +6,7 @@
 #include <instruction.hpp>
 #include "pubkey.hpp"
 
-namespace godot{
+namespace Godot{
 
 class SystemProgram : public Node{
     GDCLASS(SystemProgram, Node)

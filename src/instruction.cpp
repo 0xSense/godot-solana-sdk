@@ -11,7 +11,7 @@
 
 #include <godot_cpp/core/class_db.hpp>
 
-namespace godot{
+namespace Godot{
 
 using internal::gdextension_interface_print_warning;
 

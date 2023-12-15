@@ -4,7 +4,7 @@
 #include <godot_cpp/classes/node.hpp>
 #include <hash.hpp>
 
-namespace godot {
+namespace Godot {
 
 class SolanaSDK : public Node {
     GDCLASS(SolanaSDK, Node)

@@ -9,7 +9,7 @@
 
 #include <godot_cpp/classes/node.hpp>
 
-namespace godot{
+namespace Godot{
 
 MAKE_TYPED_ARRAY(Pubkey, Variant::OBJECT)
 MAKE_TYPED_ARRAY(AccountMeta, Variant::OBJECT)

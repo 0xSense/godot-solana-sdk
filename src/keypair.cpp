@@ -4,7 +4,7 @@
 #include <godot_cpp/classes/random_number_generator.hpp>
 #include <solana_sdk.hpp>
 
-namespace godot{
+namespace Godot{
 
 void Keypair::_bind_methods() {
     ClassDB::bind_static_method("Keypair", D_METHOD("new_from_seed", "seed"), (Variant(*)(const PackedByteArray&))&Keypair::new_from_seed);

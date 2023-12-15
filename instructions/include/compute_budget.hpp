@@ -4,7 +4,7 @@
 #include <godot_cpp/classes/node.hpp>
 #include <instruction.hpp>
 
-namespace godot{
+namespace Godot{
 
 class ComputeBudget : public Node{
     GDCLASS(ComputeBudget, Node)

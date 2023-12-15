@@ -6,7 +6,7 @@
 #include <instruction.hpp>
 #include <meta_data.hpp>
 
-namespace godot{
+namespace Godot{
 
 class MplTokenMetadata : public Node{
     GDCLASS(MplTokenMetadata, Node)

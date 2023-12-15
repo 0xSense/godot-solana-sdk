@@ -4,7 +4,7 @@
 #include <godot_cpp/classes/resource.hpp>
 #include <godot_cpp/variant/string.hpp>
 
-namespace godot{
+namespace Godot{
 
 class MetaDataCreator: public Resource{
     GDCLASS(MetaDataCreator, Resource)

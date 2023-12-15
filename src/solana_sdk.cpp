@@ -8,7 +8,7 @@
 #include <utils.hpp>
 #include <algorithm>
 
-using namespace godot;
+using namespace Godot;
 
 const char BASE_58_MAP[] = {
 	'1', '2', '3', '4', '5', '6', '7', '8',

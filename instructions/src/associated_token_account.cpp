@@ -2,7 +2,7 @@
 #include "system_program.hpp"
 #include "spl_token.hpp"
 
-namespace godot{
+namespace Godot{
 
 const std::string AssociatedTokenAccountProgram::ID = "ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL";
 

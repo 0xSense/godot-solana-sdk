@@ -3,7 +3,7 @@
 #include "utils.hpp"
 #include "pubkey.hpp"
 
-namespace godot{
+namespace Godot{
 
 void MetaDataCreator::_bind_methods(){
     ClassDB::bind_method(D_METHOD("get_address"), &MetaDataCreator::get_address);

@@ -13,7 +13,7 @@
 
 using internal::gdextension_interface_print_warning;
 
-namespace godot{
+namespace Godot{
 
 bool Pubkey::are_bytes_curve_point() const{
     return is_y_point_valid(bytes.ptr());

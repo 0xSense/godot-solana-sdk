@@ -4,7 +4,7 @@
 #include <solana_sdk.hpp>
 #include <godot_cpp/core/class_db.hpp>
 
-namespace godot{
+namespace Godot{
 
 void Hash::_bind_methods() {
     ClassDB::bind_method(D_METHOD("get_value"), &Hash::get_value);

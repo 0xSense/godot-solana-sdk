@@ -6,7 +6,7 @@
 #include "utils.hpp"
 #include "ed25519.h"
 
-namespace godot{
+namespace Godot{
 class Keypair : public Resource {
     GDCLASS(Keypair, Resource)
 

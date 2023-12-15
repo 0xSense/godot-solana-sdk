@@ -4,7 +4,7 @@
 #include <godot_cpp/classes/control.hpp>
 #include <godot_cpp/classes/wrapped.hpp>
 
-namespace godot{
+namespace Godot{
 class PhantomController : public Node{
     GDCLASS(PhantomController, Node)
 private:

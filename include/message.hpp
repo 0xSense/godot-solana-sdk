@@ -6,7 +6,7 @@
 
 #include "keypair.hpp"
 
-namespace godot{
+namespace Godot{
 
 MAKE_TYPED_ARRAY(CompiledInstruction, Variant::OBJECT)
 MAKE_TYPED_ARRAY(Instruction, Variant::OBJECT)

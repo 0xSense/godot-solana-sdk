@@ -1,6 +1,6 @@
 #include "compute_budget.hpp"
 
-namespace godot{
+namespace Godot{
 
 PackedByteArray encode_u32(uint32_t input){
     PackedByteArray result;

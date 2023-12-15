@@ -56,7 +56,7 @@ const char* js_script = "\
 
 #endif
 
-namespace godot{
+namespace Godot{
 
 void PhantomController::clear_state(){
   phantom_state = State::IDLE;

@@ -16,7 +16,7 @@
 
 //#include <emscripten.h>
 
-namespace godot{
+namespace Godot{
 
 using internal::gdextension_interface_print_warning;
 

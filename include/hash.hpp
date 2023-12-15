@@ -5,7 +5,7 @@
 #include <godot_cpp/classes/resource.hpp>
 
 
-namespace godot{
+namespace Godot{
 class Hash : public Resource {
     GDCLASS(Hash, Resource)
 

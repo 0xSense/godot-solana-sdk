@@ -8,7 +8,7 @@
 #include <godot_cpp/godot.hpp>
 #include <godot_cpp/classes/java_script_bridge.hpp>
 
-namespace godot{
+namespace Godot{
 
 using internal::gdextension_interface_print_warning;
 
